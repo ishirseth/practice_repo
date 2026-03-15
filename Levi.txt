@@ -1,0 +1,10 @@
+Levi is my cat.
+He is orange.
+He like to play with springs for some reason.
+Yeah, he is a weird cat.
+But I love him.
+Oh and he strongly likes to eat food and sleep and also he likes popcorn?
+I dont think popcorn is good for cats. 
+So sadly I cant give him more then a couple of pieces.
+Ok thats all about Levi for now.
+Btw this is a test to see if I can use git to push my changes to the remote repository.
